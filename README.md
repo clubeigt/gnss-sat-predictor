@@ -18,7 +18,7 @@ GNSS Sat Predictor is a Matlab toolbox implementing a SGP4 orbit propagator to p
 
 The following contributors should be thanked for sharing their code:
 - David Vallado for providing most of the functions in the SGP4 original package
-- Meysam Mahooti for providing the SGP4 original package (https://www.mathworks.com/matlabcentral/fileexchange/62013-sgp4)
-- Moein Mehrtash for providing computeAzimuthElevation.m (moeinmehrtash@yahoo.com)
-- Eric Calais for providing skyplot.m (http://www.geologie.ens.fr/~ecalais/teaching/gps-geodesy/solutions-to-gps-geodesy/)
+- Meysam Mahooti for providing the [SGP4 original package](https://www.mathworks.com/matlabcentral/fileexchange/62013-sgp4)
+- Moein Mehrtash for providing computeAzimuthElevation.m 
+- Eric Calais for providing [skyplot.m](http://www.geologie.ens.fr/~ecalais/teaching/gps-geodesy/solutions-to-gps-geodesy/)
 - Serge Fabre (TéSA lab) and Benoît Priot (ISAE-SUPAERO) for their precious feedbacks
