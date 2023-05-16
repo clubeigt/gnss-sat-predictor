@@ -4,7 +4,7 @@
 
 Corentin Lubeigt -- corentin.lubeigt@tesa.prd.fr
 
-GNSS Sat Predictor is a Matlab toolbox implementing a SGP4 orbit propagator to predict GNSS satellites position based on current TLE. It allows the user to select a time window either in past or in the future and to generate comprehensive figures (elevation plots or skyplots) to visualize the position of the considered satellites at the moment of interest.
+GNSS Sat Predictor is a Matlab toolbox implementing a SGP4 orbit propagator to predict GNSS satellites position based on current TLE. It allows the user to select a time window either in the past or in the future and to generate comprehensive figures (elevation plots or skyplots) to visualize the position of the considered satellites at the moment of interest.
 
 ## Quick tutorial
 
