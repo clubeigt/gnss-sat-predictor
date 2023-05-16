@@ -318,7 +318,7 @@ classdef main < matlab.apps.AppBase
             % Create UIFigure and hide until all components are created
             app.UIFigure = uifigure('Visible', 'off');
             app.UIFigure.Position = [100 100 550 574];
-            app.UIFigure.Name = 'MATLAB App';
+            app.UIFigure.Name = 'GNSS Satellite Predictor';
 
             % Create ConfgurationPanel
             app.ConfgurationPanel = uipanel(app.UIFigure);
