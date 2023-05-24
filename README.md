@@ -20,5 +20,5 @@ The following contributors should be thanked for sharing their code:
 - David Vallado for providing most of the functions in the SGP4 original package
 - Meysam Mahooti for providing the [SGP4 original package](https://www.mathworks.com/matlabcentral/fileexchange/62013-sgp4)
 - Moein Mehrtash for providing computeAzimuthElevation.m 
-- Eric Calais for providing skyplot.m, a function from the [GPS geodesy](http://www.geologie.ens.fr/~ecalais/teaching/gps-geodesy/solutions-to-gps-geodesy/) classe
+- Eric Calais for providing skyplot.m, a function from the [GPS geodesy](http://www.geologie.ens.fr/~ecalais/teaching/gps-geodesy/solutions-to-gps-geodesy/) class
 - Serge Fabre and Benoît Priot for their precious feedbacks
